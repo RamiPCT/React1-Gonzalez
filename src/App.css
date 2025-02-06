@@ -1,0 +1,12 @@
+/* src/App.css */
+.app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .contenedor {
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
