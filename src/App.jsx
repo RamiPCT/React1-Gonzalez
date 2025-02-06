@@ -1,8 +1,8 @@
-// src/App.jsx
+
 import React from 'react';
 import Navbar from './Navbar';
 import Contenedor from './Contenedor';
-import './App.css'; // Asegúrate de que esta ruta sea correcta
+import './App.css'; 
 
 const App = () => {
   return (
