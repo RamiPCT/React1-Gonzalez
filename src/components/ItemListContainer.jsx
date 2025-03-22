@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import ItemList from './ItemList';
-import Filter from './Filter'; 
+import ItemList from '../ItemList';
+import Filter from '../Filter'; 
 import { CartContext } from './CartContext';
 import { useContext } from 'react';
 
